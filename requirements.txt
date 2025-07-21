@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+torch
+torchvision
+ultralytics
+numpy
+depth-anything-v2 @ git+https://github.com/isl-org/Depth-Anything.git@v2  # or your local package
